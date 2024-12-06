@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Include the WAR file explicitly
+!/target/api-product-0.0.1-SNAPSHOT.war
